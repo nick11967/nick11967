@@ -4,7 +4,7 @@
 - 🔭 Undergraduate student at Seoul National University
 - 🌱 I’m currently learning [Logic Design]
 - 🤔 I’m looking for help with [Logic Design]
-- ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making, webtoon! And... you?
+- ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making! And... you?
 <!--
 **nick11967/nick11967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
