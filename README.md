@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Humun에겐 더 많은 Humor가 필요해!
+# MY NAME IS RYU JIMIN
 
 - 🔭 Undergraduate student at Seoul National University
 - 🌱 I’m currently learning [Logic Design]
