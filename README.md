@@ -7,7 +7,7 @@
 - ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making! And... you?
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br />
 [instargram]: https://www.instagram.com/dgw_ryu.jimin/?hl=ko
 <!--
 **nick11967/nick11967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
