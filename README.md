@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # MY NAME IS RYU JIMIN
 
 ```
