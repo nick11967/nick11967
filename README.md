@@ -2,10 +2,10 @@
 # MY NAME IS RYU JIMIN
 
 ```
-- 🔭 Undergraduate student at Seoul National University
-- 🌱 I’m currently learning [Logic Design]
-- 🤔 I’m looking for help with [Logic Design]
-- ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making, Ja-zz! And... you?
+‣ 🔭 Undergraduate student at Seoul National University
+‣ 🌱 I’m currently learning [Logic Design]
+‣ 🤔 I’m looking for help with [Logic Design]
+‣ ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making, Ja-zz! And... you?
 ```
 
 <!--
