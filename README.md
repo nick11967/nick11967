@@ -1,13 +1,11 @@
 
 # MY NAME IS RYU JIMIN
 
-```
-‣ 🔭 Undergraduate student at Seoul National University
-‣ 💻 I major in Computer Science & Engineering
-‣ 🌱 I’m currently learning [Logic Design] [Making Webpages] [Greek Roman Mythology]
-‣ 🤔 I’m looking for help with [Logic Design] [Making Webpages]
-‣ ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making, Ja-zz! And... you?
-```
+- 🔭 Undergraduate student at **Seoul National University**
+- 💻 I major in **Computer Science & Engineering**
+- 🌱 I’m currently learning [*Logic Design*]  [*Making Webpages*]  [*Greek Roman Mythology*]
+- 🤔 I’m looking for help with [*Logic Design*]  [*Making Webpages*]
+- ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making, Ja-zz! And... you?
 
 ## Contant Me!
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dgw_with.3dpen/?hl=ko)
