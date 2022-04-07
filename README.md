@@ -1,13 +1,5 @@
 ## 안녕하세요, 류지민입니다. 반가워요! <br/> Hello, my name is Nick. Nice to meet you! <br/> Bonjour, je m'appelle Nicolas. Enchanté! 
----
-## What am I doing
-- Making my own pages <= Having trouble (A lot of issues)
-- Studying *Logic Design*
-- Review *JAVA*
-
----
-## About me...
-- 🔭 Undergraduate student at **Seoul National University**
+- 🔭 I'm undergraduate student at **Seoul National University**
 - 💻 I major in **Computer Science & Engineering**
 - 🌱 I’m currently learning [*Logic Design*]  [*Making Webpages*]  [*Greek Roman Mythology*]
 - 🤔 I’m looking for help with [*Logic Design*]  [*Making Webpages*]
@@ -18,7 +10,7 @@
 <br/>
 
 ## Today's recommendation 🦖
-[![미리보기](https://img.youtube.com/vi/3dWy50rFgvg/0.jpg)](https://www.youtube.com/watch?v=3dWy50rFgvg)
+[재즈가 뭐라고 생각하세요?](https://www.youtube.com/watch?v=3dWy50rFgvg)
 
 ---
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=nick11967&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick11967&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />|
