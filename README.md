@@ -1,6 +1,12 @@
+## 안녕하세요, 류지민입니다. 반가워요! <br/> Hello, my name is Nick. Nice to meet you! <br/> Bonjour, je m'appelle Nicolas. Enchanté! 
+---
+## What am I doing
+- Making my own pages <= Having trouble (A lot of issues)
+- Studying *Logic Design*
+- Review *JAVA*
 
-# MY NAME IS RYU JIMIN
-
+---
+## About me...
 - 🔭 Undergraduate student at **Seoul National University**
 - 💻 I major in **Computer Science & Engineering**
 - 🌱 I’m currently learning [*Logic Design*]  [*Making Webpages*]  [*Greek Roman Mythology*]
@@ -9,9 +15,12 @@
 
 ## Contant Me!
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dgw_with.3dpen/?hl=ko)
-<br/> <br/> <br/>
+<br/>
 
-------
+## Today's recommendation 🦖
+[![미리보기](https://img.youtube.com/vi/3dWy50rFgvg/0.jpg)](https://www.youtube.com/watch?v=3dWy50rFgvg)
+
+---
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=nick11967&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick11967&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />|
 | ------------- | ------------- |
 
