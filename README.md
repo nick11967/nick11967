@@ -8,14 +8,13 @@
 ‣ 🤔 I’m looking for help with [Logic Design] [Making Webpages]
 ‣ ✨ I'm currently interested in PS, LogicDesign, 3Dpen, Making, Ja-zz! And... you?
 ```
-<br/>
-<br/>
 
 ## Contant Me!
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dgw_with.3dpen/?hl=ko)
+<br/> <br/> <br/>
 
 ------
-|<img  align="center" src="https://github-readme-stats.vercel.app/api?username=nick11967&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick11967&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=nick11967&show_icons=true&count_private=true&theme=buefy&hide_border=true&disable_animations=false">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick11967&layout=compact&theme=buefy&hide_border=true&disable_animations=false&count_private=true" />|
 | ------------- | ------------- |
 
 <!--
@@ -32,7 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
-[instargram2]: https://www.instagram.com/dgw_with.3dpen/?hl=ko
 -->
