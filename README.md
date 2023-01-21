@@ -1,10 +1,5 @@
-## 안녕하세요, 류지민입니다. 반가워요! <br/> Hello, my name is Nick. Nice to meet you! <br/> Bonjour, je m'appelle Nicolas. Enchanté!
-
 - 🔭 I'm undergraduate student at **Seoul National University**
 - 💻 I major in **Computer Science & Engineering**
-- 🌱 I’m currently taking [*CA*], [*EM2*], [*EEC*], [*PP*], [*A*]
-- 🤔 I’m looking for help with [*Everything above*]...
-- ✨ I'm currently interested in PS, Making, Dance! And... you?
 <!--
 
 ## Contant Me!
